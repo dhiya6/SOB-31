@@ -33,7 +33,7 @@ while playing:
 
     if cowbullcount[1]==4:
         playing = False
-        print("You win the game after " + str(guesses) + "! The number was "+str(number))
+        print("You win the game after " + str(guesses) + " guesses! The number was "+str(number))
         break #redundant exit
     else:
         print("Your guess isn't quite right, try again.")
