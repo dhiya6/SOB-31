@@ -1,4 +1,4 @@
-8#tictactoe game.
+#tictactoe game.
 
 # Find the 4 errors in the code and fix them,
 # so the game works as expected.
